@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: c4e449138ff2f42f19e9e29043067d57
+timeCreated: 1456190844
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Candy_shop_menu_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 159, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Candy_shop_menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 404
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 2}
+        - {x: 78, y: 11}
+        - {x: 105, y: 25}
+        - {x: 122, y: 36}
+        - {x: 140, y: 51}
+        - {x: 154, y: 67}
+        - {x: 174, y: 92}
+        - {x: 180, y: 104}
+        - {x: 192, y: 133}
+        - {x: 197, y: 151}
+        - {x: 201, y: 174}
+        - {x: 201, y: 226}
+        - {x: 198, y: 239}
+        - {x: 194, y: 255}
+        - {x: 181, y: 288}
+        - {x: 169, y: 308}
+        - {x: 154, y: 327}
+        - {x: 141, y: 343}
+        - {x: 122, y: 358}
+        - {x: 98, y: 374}
+        - {x: 64, y: 389}
+        - {x: 52, y: 392}
+        - {x: 26, y: 396}
+        - {x: 16, y: 397}
+        - {x: -16, y: 397}
+        - {x: -32, y: 396}
+        - {x: -59, y: 390}
+        - {x: -79, y: 382}
+        - {x: -102, y: 371}
+        - {x: -126, y: 354}
+        - {x: -139, y: 343}
+        - {x: -161, y: 317}
+        - {x: -172, y: 302}
+        - {x: -179, y: 290}
+        - {x: -188, y: 270}
+        - {x: -196, y: 244}
+        - {x: -200, y: 220}
+        - {x: -200, y: 168}
+        - {x: -196, y: 151}
+        - {x: -191, y: 133}
+        - {x: -180, y: 107}
+        - {x: -171, y: 90}
+        - {x: -153, y: 67}
+        - {x: -138, y: 50}
+        - {x: -121, y: 35}
+        - {x: -97, y: 21}
+        - {x: -76, y: 11}
+        - {x: -59, y: 5}
+        - {x: -51, y: 3}
+        - {x: -26, y: -2}
+        - {x: -26, y: -395}
+        - {x: -24, y: -397}
+        - {x: 25, y: -397}
+        - {x: 27, y: -395}
+        - {x: 27, y: -2}
+        - {x: 45, y: 1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

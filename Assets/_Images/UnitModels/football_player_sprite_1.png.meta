@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: f1df6f0737ea04511ac71e05391697e1
+timeCreated: 1456119715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: football_player_sprite_1_0
+    21300002: football_player_sprite_1_1
+    21300004: football_player_sprite_1_2
+    21300006: football_player_sprite_1_3
+    21300008: football_player_sprite_1_4
+    21300010: football_player_sprite_1_5
+    21300012: football_player_sprite_1_6
+    21300014: football_player_sprite_1_7
+    21300016: football_player_sprite_1_8
+    21300018: football_player_sprite_1_9
+    21300020: football_player_sprite_1_10
+    21300022: football_player_sprite_1_11
+    21300024: football_player_sprite_1_12
+    21300026: football_player_sprite_1_13
+    21300028: football_player_sprite_1_14
+    21300030: football_player_sprite_1_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: football_player_sprite_1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 202
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29}
+        - {x: -26, y: 13}
+        - {x: -26, y: -29}
+        - {x: 26, y: -29}
+        - {x: 26, y: 19}
+        - {x: 15, y: 29}
+    - name: football_player_sprite_1_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 202
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30}
+        - {x: -26, y: 14}
+        - {x: -26, y: -25}
+        - {x: -19, y: -30}
+        - {x: 26, y: -30}
+        - {x: 26, y: 18}
+        - {x: 21, y: 30}
+    - name: football_player_sprite_1_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 202
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29}
+        - {x: -26, y: 13}
+        - {x: -26, y: -29}
+        - {x: 26, y: -29}
+        - {x: 26, y: 19}
+        - {x: 15, y: 29}
+    - name: football_player_sprite_1_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 202
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -26, y: 12}
+        - {x: -26, y: -17}
+        - {x: -22, y: -26}
+        - {x: -6, y: -30}
+        - {x: 13, y: -30}
+        - {x: 26, y: -17}
+        - {x: 26, y: 13}
+        - {x: 13, y: 30}
+    - name: football_player_sprite_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -19, y: -21}
+        - {x: -17, y: -29}
+        - {x: 13, y: -29}
+        - {x: 19, y: -18}
+        - {x: 19, y: 29}
+    - name: football_player_sprite_1_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 135
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -20, y: 30}
+        - {x: -20, y: -31}
+        - {x: -18, y: -32}
+        - {x: 15, y: -32}
+        - {x: 20, y: -15}
+        - {x: 20, y: 32}
+    - name: football_player_sprite_1_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 135
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -19, y: -18}
+        - {x: -12, y: -29}
+        - {x: 14, y: -29}
+        - {x: 19, y: -17}
+        - {x: 19, y: 27}
+        - {x: 13, y: 29}
+    - name: football_player_sprite_1_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 135
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -19, y: -28}
+        - {x: -16, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 32}
+    - name: football_player_sprite_1_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29}
+        - {x: -19, y: 26}
+        - {x: -19, y: -19}
+        - {x: -10, y: -29}
+        - {x: 16, y: -29}
+        - {x: 19, y: -14}
+        - {x: 19, y: 29}
+    - name: football_player_sprite_1_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 32}
+        - {x: -17, y: 32}
+        - {x: -20, y: 22}
+        - {x: -20, y: -25}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 19, y: -30}
+        - {x: 20, y: -22}
+        - {x: 20, y: 24}
+    - name: football_player_sprite_1_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29}
+        - {x: -19, y: 26}
+        - {x: -19, y: -19}
+        - {x: -10, y: -29}
+        - {x: 16, y: -29}
+        - {x: 19, y: -14}
+        - {x: 19, y: 29}
+    - name: football_player_sprite_1_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -19, y: 29}
+        - {x: -19, y: -16}
+        - {x: -13, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 32}
+    - name: football_player_sprite_1_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29}
+        - {x: -26, y: 13}
+        - {x: -26, y: -29}
+        - {x: 26, y: -29}
+        - {x: 26, y: 19}
+        - {x: 15, y: 29}
+    - name: football_player_sprite_1_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30}
+        - {x: -26, y: 14}
+        - {x: -26, y: -17}
+        - {x: -25, y: -19}
+        - {x: -15, y: -30}
+        - {x: 5, y: -30}
+        - {x: 23, y: -25}
+        - {x: 26, y: -21}
+        - {x: 26, y: 12}
+        - {x: 14, y: 30}
+    - name: football_player_sprite_1_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29}
+        - {x: -26, y: 13}
+        - {x: -26, y: -29}
+        - {x: 26, y: -29}
+        - {x: 26, y: 19}
+        - {x: 15, y: 29}
+    - name: football_player_sprite_1_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30}
+        - {x: -26, y: 16}
+        - {x: -26, y: -20}
+        - {x: -11, y: -30}
+        - {x: 13, y: -30}
+        - {x: 26, y: -21}
+        - {x: 26, y: 13}
+        - {x: 14, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

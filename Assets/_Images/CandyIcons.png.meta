@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 99b68add883233f42a56b7f6713edc72
+timeCreated: 1457195546
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CandyIcons_0
+    21300002: CandyIcons_1
+    21300004: CandyIcons_2
+    21300006: CandyIcons_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CandyIcons_0
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1212
+        width: 408
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -147, y: -136.5}
+        - {x: -146, y: -137.5}
+        - {x: 204, y: -137.5}
+        - {x: 204, y: 137.5}
+        - {x: -204, y: 137.5}
+        - {x: -204, y: -133.5}
+        - {x: -203, y: -133.5}
+        - {x: -204, y: -134.5}
+        - {x: -204, y: -137.5}
+        - {x: -148, y: -137.5}
+    - name: CandyIcons_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 556
+        width: 266
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: -281.5}
+        - {x: 133, y: -261.5}
+        - {x: 132, y: -260.5}
+        - {x: 133, y: -259.5}
+        - {x: 133, y: 283.5}
+        - {x: 80, y: 283.5}
+        - {x: 77, y: 281.5}
+        - {x: 76, y: 283.5}
+        - {x: -133, y: 283.5}
+        - {x: -133, y: -283.5}
+        - {x: 131, y: -283.5}
+    - name: CandyIcons_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 478
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 239, y: -204.5}
+        - {x: 239, y: 28.5}
+        - {x: 237, y: 31.5}
+        - {x: 239, y: 31.5}
+        - {x: 239, y: 48.5}
+        - {x: 237, y: 51.5}
+        - {x: 235, y: 51.5}
+        - {x: 239, y: 50.5}
+        - {x: 239, y: 204.5}
+        - {x: 204, y: 204.5}
+        - {x: 201, y: 202.5}
+        - {x: 201, y: 200.5}
+        - {x: 202, y: 204.5}
+        - {x: 103, y: 204.5}
+        - {x: 102, y: 203.5}
+        - {x: 102, y: 201.5}
+        - {x: 102, y: 202.5}
+        - {x: 101, y: 204.5}
+        - {x: -239, y: 204.5}
+        - {x: -239, y: -204.5}
+    - name: CandyIcons_3
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 21
+        width: 403
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 201.5, y: -238}
+        - {x: 201.5, y: 237}
+        - {x: 200.5, y: 239}
+        - {x: -201.5, y: 239}
+        - {x: -201.5, y: -114}
+        - {x: -199.5, y: -116}
+        - {x: -197.5, y: -115}
+        - {x: -201.5, y: -117}
+        - {x: -201.5, y: -197}
+        - {x: -199.5, y: -199}
+        - {x: -198.5, y: -207}
+        - {x: -201.5, y: -208}
+        - {x: -201.5, y: -239}
+        - {x: 200.5, y: -239}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Unit
+  - Tower
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Units
+  - Barricades
+  - UnitRange
+  - Nodes
+  - Towers
+  - TowerRange
+  - UnitsFlying
+  - Traps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Terrain
+    uniqueID: 3906359923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Isometric
+    uniqueID: 3390099757
+    locked: 0
+  - name: Top
+    uniqueID: 3063751679
+    locked: 0

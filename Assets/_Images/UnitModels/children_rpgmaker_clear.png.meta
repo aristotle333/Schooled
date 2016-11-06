@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 0c24137cc1fa9c74495e313cb45ff11b
+timeCreated: 1457150828
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: children_rpgmaker_clear_0
+    21300002: children_rpgmaker_clear_1
+    21300004: children_rpgmaker_clear_2
+    21300006: children_rpgmaker_clear_3
+    21300008: children_rpgmaker_clear_4
+    21300010: children_rpgmaker_clear_5
+    21300012: children_rpgmaker_clear_6
+    21300014: children_rpgmaker_clear_7
+    21300016: children_rpgmaker_clear_8
+    21300018: children_rpgmaker_clear_9
+    21300020: children_rpgmaker_clear_10
+    21300022: children_rpgmaker_clear_11
+    21300024: children_rpgmaker_clear_12
+    21300026: children_rpgmaker_clear_13
+    21300028: children_rpgmaker_clear_14
+    21300030: children_rpgmaker_clear_15
+    21300032: children_rpgmaker_clear_16
+    21300034: children_rpgmaker_clear_17
+    21300036: children_rpgmaker_clear_18
+    21300038: children_rpgmaker_clear_19
+    21300040: children_rpgmaker_clear_20
+    21300042: children_rpgmaker_clear_21
+    21300044: children_rpgmaker_clear_22
+    21300046: children_rpgmaker_clear_23
+    21300048: children_rpgmaker_clear_24
+    21300050: children_rpgmaker_clear_25
+    21300052: children_rpgmaker_clear_26
+    21300054: children_rpgmaker_clear_27
+    21300056: children_rpgmaker_clear_28
+    21300058: children_rpgmaker_clear_29
+    21300060: children_rpgmaker_clear_30
+    21300062: children_rpgmaker_clear_31
+    21300064: children_rpgmaker_clear_32
+    21300066: children_rpgmaker_clear_33
+    21300068: children_rpgmaker_clear_34
+    21300070: children_rpgmaker_clear_35
+    21300072: children_rpgmaker_clear_36
+    21300074: children_rpgmaker_clear_37
+    21300076: children_rpgmaker_clear_38
+    21300078: children_rpgmaker_clear_39
+    21300080: children_rpgmaker_clear_40
+    21300082: children_rpgmaker_clear_41
+    21300084: children_rpgmaker_clear_42
+    21300086: children_rpgmaker_clear_43
+    21300088: children_rpgmaker_clear_44
+    21300090: children_rpgmaker_clear_45
+    21300092: children_rpgmaker_clear_46
+    21300094: children_rpgmaker_clear_47
+    21300096: children_rpgmaker_clear_48
+    21300098: children_rpgmaker_clear_49
+    21300100: children_rpgmaker_clear_50
+    21300102: children_rpgmaker_clear_51
+    21300104: children_rpgmaker_clear_52
+    21300106: children_rpgmaker_clear_53
+    21300108: children_rpgmaker_clear_54
+    21300110: children_rpgmaker_clear_55
+    21300112: children_rpgmaker_clear_56
+    21300114: children_rpgmaker_clear_57
+    21300116: children_rpgmaker_clear_58
+    21300118: children_rpgmaker_clear_59
+    21300120: children_rpgmaker_clear_60
+    21300122: children_rpgmaker_clear_61
+    21300124: children_rpgmaker_clear_62
+    21300126: children_rpgmaker_clear_63
+    21300128: children_rpgmaker_clear_64
+    21300130: children_rpgmaker_clear_65
+    21300132: children_rpgmaker_clear_66
+    21300134: children_rpgmaker_clear_67
+    21300136: children_rpgmaker_clear_68
+    21300138: children_rpgmaker_clear_69
+    21300140: children_rpgmaker_clear_70
+    21300142: children_rpgmaker_clear_71
+    21300144: children_rpgmaker_clear_72
+    21300146: children_rpgmaker_clear_73
+    21300148: children_rpgmaker_clear_74
+    21300150: children_rpgmaker_clear_75
+    21300152: children_rpgmaker_clear_76
+    21300154: children_rpgmaker_clear_77
+    21300156: children_rpgmaker_clear_78
+    21300158: children_rpgmaker_clear_79
+    21300160: children_rpgmaker_clear_80
+    21300162: children_rpgmaker_clear_81
+    21300164: children_rpgmaker_clear_82
+    21300166: children_rpgmaker_clear_83
+    21300168: children_rpgmaker_clear_84
+    21300170: children_rpgmaker_clear_85
+    21300172: children_rpgmaker_clear_86
+    21300174: children_rpgmaker_clear_87
+    21300176: children_rpgmaker_clear_88
+    21300178: children_rpgmaker_clear_89
+    21300180: children_rpgmaker_clear_90
+    21300182: children_rpgmaker_clear_91
+    21300184: children_rpgmaker_clear_92
+    21300186: children_rpgmaker_clear_93
+    21300188: children_rpgmaker_clear_94
+    21300190: children_rpgmaker_clear_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 24
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: children_rpgmaker_clear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 11}
+        - {x: 14, y: 15}
+        - {x: -12, y: 15}
+        - {x: -16, y: 7}
+        - {x: -16, y: -5}
+        - {x: -15, y: -9}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: -6}
+        - {x: 16, y: -4}
+    - name: children_rpgmaker_clear_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -15, y: 11}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 9}
+        - {x: 12, y: 14}
+    - name: children_rpgmaker_clear_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -15, y: 11}
+        - {x: -15, y: -9}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 15}
+    - name: children_rpgmaker_clear_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -11, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -11}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 8}
+        - {x: 14, y: 12}
+    - name: children_rpgmaker_clear_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -15}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 7}
+        - {x: 12, y: 13}
+        - {x: -11, y: 13}
+        - {x: -13, y: 12}
+    - name: children_rpgmaker_clear_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -7, y: 14}
+        - {x: -12, y: 7}
+        - {x: -14, y: -3}
+        - {x: -14, y: -10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 6}
+        - {x: 14, y: 12}
+    - name: children_rpgmaker_clear_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 7}
+        - {x: 11, y: 14}
+    - name: children_rpgmaker_clear_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 5}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 8}
+        - {x: 12, y: 13}
+    - name: children_rpgmaker_clear_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -11, y: 10}
+        - {x: -14, y: -5}
+        - {x: -14, y: -9}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 15, y: -9}
+        - {x: 15, y: 11}
+        - {x: 8, y: 14}
+    - name: children_rpgmaker_clear_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -7, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 15, y: -10}
+        - {x: 15, y: 4}
+    - name: children_rpgmaker_clear_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 12}
+        - {x: 11, y: 13}
+    - name: children_rpgmaker_clear_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -7, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 15, y: -10}
+        - {x: 15, y: 4}
+    - name: children_rpgmaker_clear_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -9}
+        - {x: 15, y: 9}
+        - {x: 11, y: 14}
+    - name: children_rpgmaker_clear_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: -11, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -3}
+        - {x: -9, y: -14}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -15}
+        - {x: 15, y: 0}
+        - {x: 15, y: 10}
+    - name: children_rpgmaker_clear_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 9}
+        - {x: -13, y: -4}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 7}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 8, y: 15}
+    - name: children_rpgmaker_clear_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -3}
+        - {x: -11, y: -14}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 13}
+        - {x: 10, y: 14}
+    - name: children_rpgmaker_clear_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 15}
+        - {x: -7, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -8}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 0}
+        - {x: 12, y: 12}
+    - name: children_rpgmaker_clear_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -10, y: 14}
+        - {x: -11, y: 12}
+        - {x: -11, y: -15}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 9}
+    - name: children_rpgmaker_clear_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 10}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 10}
+        - {x: 10, y: 13}
+    - name: children_rpgmaker_clear_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 9}
+        - {x: 10, y: 14}
+    - name: children_rpgmaker_clear_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -12, y: 12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 12}
+        - {x: 7, y: 14}
+    - name: children_rpgmaker_clear_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -6}
+        - {x: -11, y: -14}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 12}
+        - {x: 7, y: 13}
+    - name: children_rpgmaker_clear_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 13}
+        - {x: 9, y: 14}
+    - name: children_rpgmaker_clear_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -15, y: 10}
+        - {x: -15, y: -15}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 10}
+        - {x: 7, y: 14}
+    - name: children_rpgmaker_clear_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -15, y: 9}
+        - {x: -15, y: 3}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -1}
+        - {x: 13, y: 10}
+        - {x: 7, y: 13}
+    - name: children_rpgmaker_clear_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -16, y: 13}
+        - {x: -16, y: -3}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 12}
+        - {x: 12, y: 14}
+    - name: children_rpgmaker_clear_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -12, y: 15}
+        - {x: -12, y: -8}
+        - {x: 12, y: -8}
+        - {x: 12, y: 20}
+        - {x: 8, y: 23}
+    - name: children_rpgmaker_clear_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -14, y: 20}
+        - {x: -14, y: -5}
+        - {x: -10, y: -8}
+        - {x: 8, y: -8}
+        - {x: 12, y: 4}
+        - {x: 12, y: 19}
+        - {x: 8, y: 22}
+    - name: children_rpgmaker_clear_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 23}
+        - {x: -7, y: 23}
+        - {x: -15, y: 15}
+        - {x: -15, y: 0}
+        - {x: -12, y: -8}
+        - {x: 11, y: -8}
+        - {x: 12, y: 10}
+        - {x: 12, y: 17}
+    - name: children_rpgmaker_clear_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 8}
+        - {x: 10, y: 14}
+        - {x: -7, y: 14}
+        - {x: -11, y: 12}
+    - name: children_rpgmaker_clear_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 9}
+        - {x: -11, y: -16}
+        - {x: 7, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 7}
+        - {x: 8, y: 13}
+    - name: children_rpgmaker_clear_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: -10}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 8}
+        - {x: 10, y: 14}
+    - name: children_rpgmaker_clear_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 12}
+        - {x: 6, y: 14}
+    - name: children_rpgmaker_clear_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -11, y: 9}
+        - {x: -11, y: -10}
+        - {x: -10, y: -15}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 9}
+        - {x: 8, y: 13}
+    - name: children_rpgmaker_clear_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 12}
+        - {x: 7, y: 14}
+    - name: children_rpgmaker_clear_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 15}
+    - name: children_rpgmaker_clear_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -14}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 14}
+    - name: children_rpgmaker_clear_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -14, y: -12}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 15}
+    - name: children_rpgmaker_clear_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -7, y: 14}
+        - {x: -13, y: 12}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 1}
+        - {x: 12, y: 10}
+    - name: children_rpgmaker_clear_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -13, y: 8}
+        - {x: -13, y: -13}
+        - {x: -10, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 11}
+        - {x: 8, y: 13}
+    - name: children_rpgmaker_clear_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: -11, y: 14}
+        - {x: -14, y: 13}
+        - {x: -14, y: -11}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 3}
+        - {x: 13, y: 11}
+    - name: children_rpgmaker_clear_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: -6, y: 15}
+        - {x: -13, y: 12}
+        - {x: -14, y: 5}
+        - {x: -14, y: -10}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 3}
+        - {x: 12, y: 11}
+    - name: children_rpgmaker_clear_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -11, y: 10}
+        - {x: -13, y: -4}
+        - {x: -13, y: -13}
+        - {x: -9, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 12}
+        - {x: 3, y: 14}
+    - name: children_rpgmaker_clear_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: -6, y: 15}
+        - {x: -13, y: 12}
+        - {x: -14, y: -1}
+        - {x: -14, y: -9}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: -2}
+        - {x: 12, y: 11}
+    - name: children_rpgmaker_clear_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -8, y: 14}
+        - {x: -10, y: 10}
+        - {x: -14, y: 1}
+        - {x: -14, y: -9}
+        - {x: -9, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 14, y: 12}
+    - name: children_rpgmaker_clear_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -13}
+        - {x: -9, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 8}
+        - {x: 9, y: 13}
+    - name: children_rpgmaker_clear_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -11, y: 10}
+        - {x: -14, y: -2}
+        - {x: -14, y: -11}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 11}
+        - {x: 8, y: 14}
+    - name: children_rpgmaker_clear_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -13, y: 11}
+        - {x: -14, y: 8}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 12}
+        - {x: 8, y: 14}
+    - name: children_rpgmaker_clear_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -13}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 9, y: 13}
+    - name: children_rpgmaker_clear_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: -7, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -1}
+        - {x: 14, y: 10}
+    - name: children_rpgmaker_clear_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 15}
+        - {x: -8, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -13}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 4}
+    - name: children_rpgmaker_clear_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -14, y: 13}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: children_rpgmaker_clear_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 15}
+        - {x: -8, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -13}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 4}
+    - name: children_rpgmaker_clear_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -14, y: 13}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: children_rpgmaker_clear_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 15}
+        - {x: -8, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -13}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 4}
+    - name: children_rpgmaker_clear_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -14, y: 13}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: children_rpgmaker_clear_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: 0}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 9}
+        - {x: 9, y: 14}
+    - name: children_rpgmaker_clear_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 13}
+        - {x: -8, y: 13}
+        - {x: -12, y: 11}
+        - {x: -12, y: -4}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 8}
+    - name: children_rpgmaker_clear_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: 1}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 7}
+        - {x: 8, y: 14}
+    - name: children_rpgmaker_clear_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -12, y: 14}
+        - {x: -12, y: -7}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 11}
+        - {x: 10, y: 15}
+    - name: children_rpgmaker_clear_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 14}
+        - {x: -12, y: 14}
+        - {x: -12, y: -11}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -13}
+        - {x: 12, y: -5}
+        - {x: 12, y: 8}
+    - name: children_rpgmaker_clear_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -12, y: 14}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 10}
+        - {x: 10, y: 15}
+    - name: children_rpgmaker_clear_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 15}
+    - name: children_rpgmaker_clear_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 14}
+        - {x: -10, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: -1}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -13}
+        - {x: 12, y: -7}
+        - {x: 12, y: 9}
+    - name: children_rpgmaker_clear_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 11}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 15}
+    - name: children_rpgmaker_clear_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 14}
+        - {x: -10, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: -1}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -13}
+        - {x: 12, y: -7}
+        - {x: 12, y: 9}
+    - name: children_rpgmaker_clear_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 11}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -11, y: 8}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 9}
+        - {x: 6, y: 14}
+    - name: children_rpgmaker_clear_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 9}
+        - {x: 10, y: 13}
+        - {x: -9, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: -10}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -8}
+        - {x: 12, y: -4}
+    - name: children_rpgmaker_clear_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 13}
+        - {x: 9, y: 14}
+    - name: children_rpgmaker_clear_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 6, y: 15}
+    - name: children_rpgmaker_clear_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -12, y: 13}
+        - {x: -12, y: -11}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -15}
+        - {x: 12, y: -10}
+        - {x: 12, y: 11}
+        - {x: 9, y: 14}
+    - name: children_rpgmaker_clear_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -12, y: 11}
+        - {x: -12, y: 1}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 15}
+    - name: children_rpgmaker_clear_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -12, y: 11}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -10, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -14}
+        - {x: 12, y: -4}
+        - {x: 12, y: 11}
+        - {x: 9, y: 14}
+    - name: children_rpgmaker_clear_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 15}
+    - name: children_rpgmaker_clear_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 6, y: 15}
+    - name: children_rpgmaker_clear_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -1}
+        - {x: 12, y: 11}
+        - {x: 7, y: 14}
+    - name: children_rpgmaker_clear_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -3}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 13}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -12}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 7}
+        - {x: 13, y: 11}
+        - {x: 7, y: 14}
+    - name: children_rpgmaker_clear_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -13, y: 9}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 11}
+        - {x: 8, y: 13}
+    - name: children_rpgmaker_clear_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
+        - {x: 7, y: 14}
+    - name: children_rpgmaker_clear_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 13}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 11, y: 15}
+        - {x: -7, y: 15}
+        - {x: -14, y: 12}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 15, y: -8}
+        - {x: 15, y: 3}
+    - name: children_rpgmaker_clear_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 13}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 11, y: 15}
+        - {x: -7, y: 15}
+        - {x: -14, y: 12}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 15, y: -8}
+        - {x: 15, y: 3}
+    - name: children_rpgmaker_clear_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 13}
+        - {x: 9, y: 15}
+    - name: children_rpgmaker_clear_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 13, y: 14}
+    - name: children_rpgmaker_clear_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 11, y: 15}
+        - {x: -7, y: 15}
+        - {x: -14, y: 12}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 15, y: -8}
+        - {x: 15, y: 3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

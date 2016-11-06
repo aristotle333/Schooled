@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HitTextYellow
+  m_Controller: {fileID: 9100000, guid: 06c9bd5d930c5d1468ccd070792e2e31, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5b289942ded08414ab9c369dc39829d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 360c79ac11ec5ed418c9f3cc5dc9be5c, type: 2}
