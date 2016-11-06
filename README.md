@@ -9,6 +9,10 @@ Made by:
 * Aristotelis Sigiouan Leventidis
 
 ### Instructions
-The game can be played online [here](http://www-personal.umich.edu/~leventid/Schooled/). Note that We
+The game can be played online [here](http://www-personal.umich.edu/~leventid/Schooled/).
 
 An executable is also available. Download the zip file [here](SchooledExecutable.zip), unzip it and run the executable inside the SchooledExecutable folder.
+
+
+### Notes
+Credits for the assets used can be found [here](http://www-personal.umich.edu/~leventid/Schooled/ASSET-CREDIT.html)
